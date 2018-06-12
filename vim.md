@@ -35,3 +35,14 @@ As mentioned in previous section, in normal mode keys have meaning! What the mea
 * `A`: **Append** but to **end of the line**.
 * `o`: Change mode to **insert** mode in **next line**! You press `o`, it create a blank line after the current line and move the cursor to that.
 * `O`: Change mode to **insert** mode in **previous line**! (this is big `o` not a zero :/).
+
+## Cheat Cheat!
+
+Welcome Ninja! Now you know about what's your knife and you are prepared to do something with it! We combine keys of previous sections and make ourselves more lazy! ;).
+
+## Buffers
+
+
+
+## Macros
+
